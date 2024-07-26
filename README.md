@@ -11,7 +11,7 @@ The Pomodoro Timer is a web-based application that helps users manage their time
 Navigate to the Backend Directory:
 
 ```
-cd backend
+cd server
 ```
 
 Install Dependencies:
@@ -31,7 +31,7 @@ npm start
 Navigate to the Frontend Directory:
 
 ```
-cd frontend
+cd client
 ```
 
 Install Dependencies:
